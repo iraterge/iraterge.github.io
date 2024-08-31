@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iraterge.github.io/sitemap.html.gz
+Sitemap: https://iraterge.github.io/app/sitemap.html.gz
+Sitemap: https://iraterge.github.io/assets/sitemap.html.gz
+Sitemap: https://iraterge.github.io/css/sitemap.html.gz
+Sitemap: https://iraterge.github.io/includes/sitemap.html.gz
+Sitemap: https://iraterge.github.io/item/sitemap.html.gz
+Sitemap: https://iraterge.github.io/src/sitemap.html.gz
